@@ -1,19 +1,12 @@
-# Google Play 앱 서비스 이용약관 (배포 전 검토용)
+# 앱 서비스 이용약관 (GitHub Pages)
 
-1. 별도의 공개 GitHub 저장소(예: `play-legal`)를 생성합니다.
-2. 이 폴더의 모든 파일을 저장소 최상위에 업로드합니다.
-3. **Settings → Pages → Deploy from a branch → main → /(root) → Save**를 설정합니다.
-4. GitHub Pages에서 발급된 공개 HTTPS 주소로 각 HTML을 직접 열어 확인합니다.
-5. Google Play Console의 앱 콘텐츠 > 앱 수준 판매자 상태 및 서비스 약관에서 해당 앱의 URL을 등록합니다.
+미래안전기술원의 앱별 서비스 이용약관을 공개하는 사이트입니다.
 
-예시 경로 (`사용자명`과 `저장소명`은 실제 계정으로 교체):
-- `https://사용자명.github.io/저장소명/smart-tbm.html`
-- `https://사용자명.github.io/저장소명/ai-janggi.html`
-- `https://사용자명.github.io/저장소명/engineering-calculator.html`
+- [전체 약관](https://kjsistop-jpg.github.io/play-legal/)
+- [스마트 TBM](https://kjsistop-jpg.github.io/play-legal/smart-tbm.html)
+- [AI 장기](https://kjsistop-jpg.github.io/play-legal/ai-janggi.html)
+- [공학용 계산기](https://kjsistop-jpg.github.io/play-legal/engineering-calculator.html)
 
-**게시 전 확인 사항**
-- 모든 약관 페이지 상단의 '공개용 초안' 안내문을 검토 완료 후 삭제할 것
-- 앱의 실제 광고 보상 조건, 구독, 가격, 해지, 저장·복원 정책과 맞출 것
-- 운영자 명의가 Play Console 개발자 표시 명의와 일치하는지 확인할 것
-- 개인정보처리방침 링크는 실제 운영 중인 주소가 확인된 후 필요 시 추가할 것
-- 이용약관은 개인정보처리방침을 대체하지 않음
+운영 및 배포: GitHub Pages, `main` 브랜치의 `/(root)` 경로
+
+앱 기능이나 결제·광고 방식 및 이용자 문의 채널에 변경이 생길 경우, 실제 배포 내용과 이용약관을 함께 갱신합니다. 개인정보처리방침은 앱별로 별도 제공됩니다.
